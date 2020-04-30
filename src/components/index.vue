@@ -1,6 +1,6 @@
 <template>
-  <div>
-      <slot class="sl"></slot>
+  <div class="dv1">
+
   </div>
 </template>
 
@@ -11,7 +11,9 @@ export default {
 </script>
 
 <style>
-.sl{
-  background: yellow;
+.dv{
+    height: 400px;
+    width: 400px;
+    background: yellow;
 }
 </style>

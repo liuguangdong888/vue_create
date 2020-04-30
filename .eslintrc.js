@@ -15,9 +15,9 @@ module.exports = {
   },
 
   rules: {
-    'indent': ["off", 2],
     'no-console': 'off',
-    'no-debugger': 'off'
+    'no-debugger': 'off',
+    "indent": ["off", 2]
   },
 
   'extends': [
